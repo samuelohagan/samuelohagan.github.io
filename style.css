@@ -1,0 +1,72 @@
+
+@font-face {
+    font-family: "Kollektif";
+    src: url('Kollektif.ttf') format("truetype");
+}
+h1 { 
+    font-family: "Kollektif";
+
+    text-align: center;
+}
+
+#resume {
+    text-decoration: underline;
+}
+
+#link {
+    font-family: "Kollektif";
+
+    text-align: center;
+    color: black;
+    display: block;
+    font-size: 1.7em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: line-through;
+}
+#div1 {
+ margin: auto;
+  position: relative;
+  top:20px;
+  height:600px;
+  width:600px;
+ background-color: #fafafa;
+  border:10px solid black;
+}
+
+#div2 {
+ 
+  margin: auto;
+  position: relative;
+  top:-31.5px;
+
+  bottom: 100px;
+  height:620px;
+  width:400px;
+ background-color: #fafafa;
+
+}
+
+#div3 {
+ 
+  margin: auto;
+  position: relative;
+  top: 107.5px;
+  left: -110px;
+
+  bottom: 100px;
+  height:400px;
+  width:620px;
+ background-color:#fafafa;
+
+}
+
+body {
+    background-color: #fafafa;
+}
